@@ -1,0 +1,28 @@
+You are an expert financial analyst and communication specialist.
+
+I will provide you a transcript excerpt from NVIDIA's Q1 2025 earnings call.
+
+Please analyze the excerpt and provide:
+
+1. The overall tone of the speaker(s) — choose up to three descriptive words (e.g., confident, cautious, optimistic).
+
+2. Key strategic insights conveyed in the remarks — bullet point format preferred.
+
+Do not repeat the transcript. Focus only on tone and strategic business insights.
+
+Transcript excerpt:
+"""
+And this last quarter, as we said in the prepared remarks, we added two very significant CSPs to the Spectrum-X adoption. And then the last one is BlueField, which is our control plane. And so, in those four -- the control plane of network, which is used for storage, it's used for security, and for many of these clusters that want to achieve isolation among its users, multi-tenant clusters and still be able to use and have extremely high-performance bare metal performance, BlueField is ideal for that and is used in a lot of these cases. And so, we have these four networking platforms that are all growing and we're doing really well. I'm very proud of the team. Operator: That is all the time we have for questions. Jensen, I will turn the call back to you. Jensen Huang: Thank you. This is the start of a powerful new wave of growth. Grace Blackwell is in full production. We're off to the races. We now have multiple significant growth engines. Inference, once the light of workload, is surging with revenue-generating AI services. AI is growing faster and will be larger than any platform shifts before, including the Internet, mobile and cloud. Blackwell is built to power the full AI life cycle from training frontier models to running complex inference and reasoning agents at scale. Training demand continues to rise with breakthroughs in post training and like reinforcement learning and synthetic data generation, but inference is exploding. Reasoning AI agents require orders of magnitude more compute. The foundations of our next growth platforms are in place and ready to scale. Sovereign AI, nations are investing in AI infrastructure like they once did for electricity and Internet. Enterprise AI, AI must be deployable on-prem and integrated with existing IT. Our RTX Pro, DGX Spark and DGX Station enterprise AI systems are ready to modernize the $500 billion IT infrastructure on-prem or in the cloud. Every major IT provider is partnering with us. Industrial AI from training to digital twin simulation to deployment, NVIDIA Omniverse and Isaac GR00T are powering next-generation factories and humanoid robotic systems worldwide. The age of AI is here from AI infrastructures, inference at scale, sovereign AI, enterprise AI, and industrial AI, NVIDIA is ready. Join us at GTC Paris, our keynote at VivaTech on June 11, talking about quantum GPU computing, robotic factories and robots, and celebrate
+"""
+
+Your analysis:
+Tone:
+- Confident
+
+Optimistic
+
+Strategic
+
+
+Strategic Insights:
+-

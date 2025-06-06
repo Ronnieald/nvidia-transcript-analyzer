@@ -1,0 +1,28 @@
+You are an expert financial analyst and communication specialist.
+
+I will provide you a transcript excerpt from NVIDIA's Q1 2025 earnings call.
+
+Please analyze the excerpt and provide:
+
+1. The overall tone of the speaker(s) — choose up to three descriptive words (e.g., confident, cautious, optimistic).
+
+2. Key strategic insights conveyed in the remarks — bullet point format preferred.
+
+Do not repeat the transcript. Focus only on tone and strategic business insights.
+
+Transcript excerpt:
+"""
+three of them together finally, and we're going to market with that. And then lastly, industrial AI. Remember, one of the implications of the world reordering, if you will, is a region's onshoring manufacturing and building plants everywhere. In addition to AI factories, of course, there are new electronics manufacturing, chip manufacturing being built around the world. And all of these new plants and these new factories are creating exactly the right time when Omniverse and AI and all the work that we're doing with robotics is emerging. And so, this fourth pillar is quite important. Every factory will have an AI factory associated with it. And in order to create these physical AI systems, you really have to train a vast amount of data. So, back to more data, more training, more AIs to be created, more computers. And so, these four drivers are really kicking into turbocharge. Operator: Your next question comes from Timothy Arcuri with UBS. Your line is open. Timothy Arcuri: Thanks a lot. Jensen, I wanted to ask about China. It sounds like the July guidance assumes there's no SKU replacement for the H20, but if the President wants the U.S. to win, it seems like you're going to have to be allowed to ship something into China. So, I guess I had two points on that. First of all, have you been approved to ship a new modified version into China? And you're currently building it, but you just can't ship it in fiscal Q2? And then, you were sort of run rating $7 billion to $8 billion a quarter into China. Can we get back to those sorts of quarterly run rates once you get something that you're allowed to ship back into China? I think we're all trying to figure out how much to add back to our models and when. So, whatever you can say there would be great. Thanks. Jensen Huang: The President has a plan. He has a vision and I trust him. With respect to our export controls, it's a set of limits. And the new set of limits pretty much make it impossible for us to reduce Hopper any further for any productive use. And so, the new limits, it's kind of the end of the road for Hopper. We have some -- we have limited options. And so, we just -- the key is to understand
+"""
+
+Your analysis:
+Tone:
+- Confident
+
+Optimistic
+
+Strategic
+
+
+Strategic Insights:
+-

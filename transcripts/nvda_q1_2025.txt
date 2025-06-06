@@ -1,0 +1,90 @@
+Operator:
+Your next question comes from Ben Reitzes with Melius. Your line is open.
+
+Ben Reitzes:
+Yeah, hi. Thanks for the question. I wanted to ask, first to Colette, just a little clarification around the guidance and maybe putting it in a different way. The $8 billion for H20 just seems like it's roughly $3 billion more than most people thought with regard to what you'd be foregoing in the second quarter. So, that would mean that with regard to your guidance, the rest of the business in order to hit $45 billion is doing $2 billion to $3 billion or so better. So, I was wondering if that math made sense to you. And then, in terms of the guidance, that would imply the non-China business is doing a bit better than the Street expected. So, wondering what the primary driver was there in your view.
+
+And then, the second part of my question, Jensen, I know you guide one quarter at a time, but with regard to the AI diffusion rule being lifted and this momentum with sovereign, there's been times in your history where you guys have said on calls like this, where you have more conviction and sequential growth throughout the year, et cetera. And given the unleashing of demand with AI diffusion being revoked and the supply chain increasing, does the environment give you more conviction in sequential growth as we go throughout the year? So, first one for Colette and then next one for Jensen. Thanks so much.
+
+Colette Kress:
+Thanks, Ben, for the question. When we look at our Q2 guidance and our commentary that we provided, that, had the export controls not occurred, we would have had orders of about $8 billion for H20, that's correct. That was a possibility for what we would have had in our outlook for this quarter in Q2.
+
+So, what we also have talked about here is the growth that we've seen in Blackwell, Blackwell across many of our customers as well as the growth that we continue to have in terms of supply that we need for our customers. So, putting those together, that's where we came through with the guidance that we provided.
+
+I'm going to turn the rest over to Jensen to see how he wants to take us.
+
+Jensen Huang:
+Yeah, thanks. Thanks, Ben. I would say compared to the beginning of the year, compared to GTC timeframe, there are four positive surprises.
+
+The first positive surprise is the step function demand increase of reasoning AI, I think it is fairly clear now that AI is going through an exponential growth, and reasoning AI really busted through. Concerns about hallucination or its ability to really solve problems, and I think a lot of people are crossing that barrier and realizing how incredibly effective agentic AI is and reasoning AI is. So, number one is inference reasoning and the exponential growth there, demand growth.
+
+The second one, you mentioned AI diffusion. It's really terrific to see that the AI diffusion rule was rescinded. President Trump wants America to win, and he also realizes that we're not the only country in the race. And he wants the United States to win and recognizes that we have to get the American stack out to the world and have the world build on top of American stacks instead of alternatives.
+
+And so, AI diffusion happened, the rescinding of it happened at almost precisely the time that countries around the world are awakening to the importance of AI as an infrastructure, not just as a technology of great curiosity and great importance, but infrastructure for their industries and start-ups and society. Just as they had to build out infrastructure for electricity and Internet, you got to build out an infrastructure for AI. I think that, that's an awakening, and that creates a lot of opportunity.
+
+The third is enterprise AI. Agents work and agents are doing -- these agents are really quite successful. Much more than generative AI, agentic AI is game-changing. Agents can understand ambiguous and rather implicit instructions and able to problem solve and use tools and have memory and so on.
+
+And so, I think this is -- enterprise AI is ready to take off. And it's taken us a few years to build a computing system that is able to integrate and run enterprise AI stacks, run enterprise IT stacks but add AI to it. And this is the RTX Pro Enterprise server that we announced at COMPUTEX just last week. And just about every major IT company has joined us, super excited about that.
+
+And so, computing is one stack, one part of it. But remember, enterprise IT is really three pillars; it's compute, storage, and networking. And we've now put all three of them together finally, and we're going to market with that.
+
+And then lastly, industrial AI. Remember, one of the implications of the world reordering, if you will, is a region's onshoring manufacturing and building plants everywhere. In addition to AI factories, of course, there are new electronics manufacturing, chip manufacturing being built around the world. And all of these new plants and these new factories are creating exactly the right time when Omniverse and AI and all the work that we're doing with robotics is emerging. And so, this fourth pillar is quite important.
+
+Every factory will have an AI factory associated with it. And in order to create these physical AI systems, you really have to train a vast amount of data. So, back to more data, more training, more AIs to be created, more computers. And so, these four drivers are really kicking into turbocharge.
+
+Operator:
+Your next question comes from Timothy Arcuri with UBS. Your line is open.
+
+Timothy Arcuri:
+Thanks a lot. Jensen, I wanted to ask about China. It sounds like the July guidance assumes there's no SKU replacement for the H20, but if the President wants the U.S. to win, it seems like you're going to have to be allowed to ship something into China. So, I guess I had two points on that.
+
+First of all, have you been approved to ship a new modified version into China? And you're currently building it, but you just can't ship it in fiscal Q2?
+
+And then, you were sort of run rating $7 billion to $8 billion a quarter into China. Can we get back to those sorts of quarterly run rates once you get something that you're allowed to ship back into China? I think we're all trying to figure out how much to add back to our models and when. So, whatever you can say there would be great. Thanks.
+
+Jensen Huang:
+The President has a plan. He has a vision and I trust him. With respect to our export controls, it's a set of limits. And the new set of limits pretty much make it impossible for us to reduce Hopper any further for any productive use. And so, the new limits, it's kind of the end of the road for Hopper.
+
+We have some -- we have limited options. And so, we just -- the key is to understand the limits. The key is to understand the limits and see if we can come up with interesting products that could continue to serve the Chinese market. We don't have anything at the moment, but we're considering it. We're thinking about it. Obviously, the limits are quite stringent at the moment. And we have nothing to announce today. And when the time comes, we'll engage the administration and discuss that.
+
+Operator:
+Your final question comes from the line of Aaron Rakers with Wells Fargo. Your line is open.
+
+Unidentified Analyst (Jake for Aaron):
+Hi. This is Jake on for Aaron. Thanks for taking the question, and congrats on the great quarter. I was wondering if you could give some additional color around the strength you saw within the networking business, particularly around the adoption of your Ethernet solutions at CSPs as well as any change you're seeing in network attach rates.
+
+Jensen Huang:
+Yeah, thank you for that. We now have three networking platforms, maybe four.
+
+The first one is the scale-up platform to turn a computer into a much larger computer. Scaling up is incredibly hard to do. Scaling out is easier to do, but scaling up is hard to do. And that platform is called NVLink. NVLink is -- comes with it chips and switches and NVLink Spines and it's really complicated. But anyway, that's our new platform, scale-up platform.
+
+In addition to InfiniBand, we also have Spectrum-X. We've been fairly consistent that Ethernet was designed for a lot of traffic that are independent, but in the case of AI, you have a lot of computers working together. And the traffic of AI is insanely bursty. Latency matters a lot because the AI is thinking and it wants to get work done as quickly as possible, and you got a whole bunch of nodes working together.
+
+And so, we enhanced Ethernet, added capabilities like extremely low latency, congestion control, adaptive routing, the type of technologies that were available only in InfiniBand to Ethernet. And as a result, we improved the utilization of Ethernet in these clusters. These clusters are gigantic, from as low as 50% to as high as 85%, 90%.
+
+And so, the difference is if you had a cluster that's $10 billion, and you improve its effectiveness by 40%, that's worth $4 billion. It's incredible. And so, Spectrum-X has been really, quite frankly, a home run. And this last quarter, as we said in the prepared remarks, we added two very significant CSPs to the Spectrum-X adoption.
+
+And then the last one is BlueField, which is our control plane. And so, in those four -- the control plane of network, which is used for storage, it's used for security, and for many of these clusters that want to achieve isolation among its users, multi-tenant clusters and still be able to use and have extremely high-performance bare metal performance, BlueField is ideal for that and is used in a lot of these cases.
+
+And so, we have these four networking platforms that are all growing and we're doing really well. I'm very proud of the team.
+
+Operator:
+That is all the time we have for questions. Jensen, I will turn the call back to you.
+
+Jensen Huang:
+Thank you. This is the start of a powerful new wave of growth. Grace Blackwell is in full production. We're off to the races. We now have multiple significant growth engines.
+
+Inference, once the light of workload, is surging with revenue-generating AI services. AI is growing faster and will be larger than any platform shifts before, including the Internet, mobile and cloud. Blackwell is built to power the full AI life cycle from training frontier models to running complex inference and reasoning agents at scale. Training demand continues to rise with breakthroughs in post training and like reinforcement learning and synthetic data generation, but inference is exploding. Reasoning AI agents require orders of magnitude more compute.
+
+The foundations of our next growth platforms are in place and ready to scale. Sovereign AI, nations are investing in AI infrastructure like they once did for electricity and Internet. Enterprise AI, AI must be deployable on-prem and integrated with existing IT. Our RTX Pro, DGX Spark and DGX Station enterprise AI systems are ready to modernize the $500 billion IT infrastructure on-prem or in the cloud. Every major IT provider is partnering with us.
+
+Industrial AI from training to digital twin simulation to deployment, NVIDIA Omniverse and Isaac GR00T are powering next-generation factories and humanoid robotic systems worldwide.
+
+The age of AI is here from AI infrastructures, inference at scale, sovereign AI, enterprise AI, and industrial AI, NVIDIA is ready.
+
+Join us at GTC Paris, our keynote at VivaTech on June 11, talking about quantum GPU computing, robotic factories and robots, and celebrate our partnerships building AI factories across the region. The NVIDIA band will tour France, the U.K., Germany and Belgium.
+
+Thank you for joining us at the earnings call today. See you in Paris.
+
+Operator:
+This concludes today's conference call. You may now disconnect.

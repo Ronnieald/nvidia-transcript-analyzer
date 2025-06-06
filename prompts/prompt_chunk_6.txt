@@ -1,0 +1,28 @@
+You are an expert financial analyst and communication specialist.
+
+I will provide you a transcript excerpt from NVIDIA's Q1 2025 earnings call.
+
+Please analyze the excerpt and provide:
+
+1. The overall tone of the speaker(s) — choose up to three descriptive words (e.g., confident, cautious, optimistic).
+
+2. Key strategic insights conveyed in the remarks — bullet point format preferred.
+
+Do not repeat the transcript. Focus only on tone and strategic business insights.
+
+Transcript excerpt:
+"""
+our partnerships building AI factories across the region. The NVIDIA band will tour France, the U.K., Germany and Belgium. Thank you for joining us at the earnings call today. See you in Paris. Operator: This concludes today's conference call. You may now disconnect.
+"""
+
+Your analysis:
+Tone:
+- Confident
+
+Optimistic
+
+Strategic
+ 
+
+Strategic Insights:
+-
