@@ -1,0 +1,3 @@
+[submodule "nvidia-transcript-analyzer"]
+    path = nvidia-transcript-analyzer
+    url = https://github.com/Ronnieald/nvidia-transcript-analyzer
