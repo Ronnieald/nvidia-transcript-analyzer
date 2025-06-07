@@ -1,5 +1,4 @@
 {
-  "version": 2,
   "builds": [
     {
       "src": "frontend/package.json",
@@ -9,7 +8,7 @@
       }
     },
     {
-      "src": "api/*.js",
+      "src": "api/chunks.js",
       "use": "@vercel/node"
     }
   ],
@@ -20,7 +19,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "/frontend/index.html"
+      "dest": "/frontend/dist/index.html"
     }
   ]
 }
